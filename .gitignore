@@ -1,0 +1,9 @@
+# Don't track workspace setup across devices
+.obsidian/workspace.json
+
+# Hide books - this is just for convenience on my desktop
+_Books
+
+# Debris
+[Tt]humbs.db
+.DS_Store
