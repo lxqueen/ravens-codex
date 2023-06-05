@@ -1,5 +1,5 @@
 ---
-start_date: 2023-06-11
+start_date: 2023-06-18
 end_date: Ongoing
 tags: campaigns one-shots todo
 ---

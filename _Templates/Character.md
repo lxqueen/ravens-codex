@@ -10,10 +10,10 @@ tags: characters my-new-campaign todo
 ^summary
 
 ## History
-### Early life
+### Origins
 Lorem ipsum dolor sit amet.
 
-### Becoming an adventurer
+### As a hunter
 Lorem ipsum dolor sit amet.
 
 ## Personality and personal life
@@ -23,4 +23,4 @@ Lorem ipsum dolor sit amet.
 - [[00 - Example Campaign]] *(main character)*
 
 ## Other Notes
-- Put random explanations or trivia here.
+- {{title}} used the Lorem playbook from *Monster of the Week*.

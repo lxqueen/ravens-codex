@@ -1,5 +1,5 @@
 ---
-start_date: 2023-06-11
+start_date: 2023-06-18
 end_date: Ongoing
 tags: campaigns reassigned todo
 ---
@@ -7,7 +7,7 @@ tags: campaigns reassigned todo
 Lorem ipsum dolor sit amet.
 ^summary
 
-This campaign started on **11th June 2023**, and is currently ongoing.
+This campaign started on **18th June 2023**, and is currently ongoing.
 
 ## Background
 Lorem ipsum dolor sit amet.

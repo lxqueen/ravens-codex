@@ -1,1 +1,4 @@
-TBA
+# Current Session
+## Mystery
+
+## Other Notes
