@@ -27,5 +27,5 @@ SORT date asc
 ```
 
 ## Other Notes
-- Character creation/session 0 was on 14th and 28th May.
+- Character creation/session 0 began on 14th May and ran through 11th June, due to everyone's hectic schedule.
 - For topics which appeared in this campaign, see the #reassigned tag.

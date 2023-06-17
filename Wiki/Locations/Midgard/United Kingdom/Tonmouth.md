@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet.
 ### People
 - [[Mick Trantwell]] *(ex-Ravens operative, retired)*
 - [[Brynjolf Ravneskjold]] *(Ravens operative)*
-- [[Karl TBA]] *(Ravens operative)*
+- [[Helga]] *(Ravens operative)*
 - [[Hearty TBA]] *(Ravens operative)*
 - [[Robbie Trantwell]] *(Ravens operative, runs the phone repair store)*
 - [[Cleo Adair]] *(landlord of the Horse & Serpent Inn)*

@@ -3,10 +3,10 @@ player: Karl
 status: Active
 tags: characters reassigned todo
 ---
-# TBA
+# Helga
 ***Played by Karl***
 
-**TBA** was a lorem ipsum dolor sit amet.
+**Helga** was a lorem ipsum dolor sit amet.
 ^summary
 
 ## History
@@ -23,4 +23,4 @@ Lorem ipsum dolor sit amet.
 - [[Reassigned]] *(main character)*
 
 ## Other Notes
-- TBA used the Summoned third-party playbook from *Monster of the Week*.
+- Helga used the Summoned third-party playbook from *Monster of the Week*.
